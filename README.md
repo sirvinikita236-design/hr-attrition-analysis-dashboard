@@ -22,4 +22,4 @@ The aim of this project is to identify key factors contributing to employee attr
 - Some job roles have noticeably higher exit rates than others.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard](dashboard-preview.png)
